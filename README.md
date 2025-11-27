@@ -1,4 +1,4 @@
 # singhkaranjot-demo
 This is my first git repository.
 <br>
-My name Karan
+My name Karan Singh
